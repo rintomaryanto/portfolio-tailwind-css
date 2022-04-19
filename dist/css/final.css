@@ -649,10 +649,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   display: flex;
 }
 
-.list-item {
-  display: list-item;
-}
-
 .hidden {
   display: none;
 }
@@ -743,20 +739,8 @@ Ensure the default browser behavior of the `hidden` attribute.
   cursor: pointer;
 }
 
-.list-inside {
-  list-style-position: inside;
-}
-
 .list-disc {
   list-style-type: disc;
-}
-
-.list-none {
-  list-style-type: none;
-}
-
-.list-decimal {
-  list-style-type: decimal;
 }
 
 .flex-wrap {
